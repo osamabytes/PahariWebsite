@@ -1,0 +1,17 @@
+.navbarMenu{
+    margin-left: 92%;
+}
+
+.navbar_menu_btn{
+    margin: 0 5px;
+}
+
+.navbar{
+    background: 014045!important;
+}
+
+.mat-toolbar{
+    background-color: #014045;
+    border-bottom: 2px solid #D8A564;
+    color: white;
+}

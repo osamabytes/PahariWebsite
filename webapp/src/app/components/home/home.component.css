@@ -1,0 +1,9 @@
+.footer{
+    background-color: #014045;
+    z-index: 1;
+    position: static;
+    padding: 3px;
+    text-align: center;
+    color: #D8A564;
+    font-weight: lighter;
+}
